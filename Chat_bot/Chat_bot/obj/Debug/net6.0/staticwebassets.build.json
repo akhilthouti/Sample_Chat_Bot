@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "Azzxv1SOuWurlD39ZIkLrgg2jneHspOnoU+xWCgDbPU=",
+  "Source": "Chat_bot",
+  "BasePath": "_content/Chat_bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chat_bot\\wwwroot",
+      "Source": "Chat_bot",
+      "ContentRoot": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\",
+      "BasePath": "_content/Chat_bot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\css\\style.css",
+      "SourceId": "Chat_bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\",
+      "BasePath": "_content/Chat_bot",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\index.html",
+      "SourceId": "Chat_bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\",
+      "BasePath": "_content/Chat_bot",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\js\\script.js",
+      "SourceId": "Chat_bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akhil.thouti\\Downloads\\Chat_bot\\Chat_bot\\wwwroot\\",
+      "BasePath": "_content/Chat_bot",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}

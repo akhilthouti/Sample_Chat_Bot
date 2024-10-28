@@ -1,0 +1,59 @@
+﻿/* wwwroot/css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f9;
+}
+
+.chatbot-container {
+    width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+}
+
+.chat-output {
+    height: 300px;
+    max-height: 500px; /* Adjust based on desired display */
+    overflow-y: auto; /* Allows scrolling for long messages */
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    color: #333;
+    white-space: pre-wrap; /* Ensures long messages wrap within the container */
+    word-wrap: break-word; /* Prevents words from breaking out of the container */
+}
+
+#user-input {
+    width: calc(100% - 60px);
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+button {
+    padding: 8px 10px;
+    margin-left: 5px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
